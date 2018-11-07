@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a66dc64f-724d-4ef9-ad20-47767d952a37" name="Default" comment="" />
+=======
+    <list default="true" id="a66dc64f-724d-4ef9-ad20-47767d952a37" name="Default" comment="Kotlin - HelloWorld">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+    </list>
+>>>>>>> 1db95f89eebeb6b871e8928749979665dbc9d1d5
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +35,13 @@
       <file leaf-file-name="Hello.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HelloWorld/Hello.kt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="51">
               <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+=======
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+>>>>>>> 1db95f89eebeb6b871e8928749979665dbc9d1d5
             </state>
           </provider>
         </entry>
@@ -162,6 +187,7 @@
       <option name="project" value="LOCAL" />
       <updated>1541580752690</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="Kotlin - HelloWorld">
       <created>1541581351824</created>
       <option name="number" value="00002" />
@@ -177,6 +203,9 @@
       <updated>1541581874618</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 1db95f89eebeb6b871e8928749979665dbc9d1d5
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -188,10 +217,17 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49926794" weight="0.32913387" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.32913387" />
+=======
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.32913387" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49926794" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.32913387" />
+>>>>>>> 1db95f89eebeb6b871e8928749979665dbc9d1d5
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -217,6 +253,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
     <MESSAGE value="Kotlin - HelloWorld" />
     <MESSAGE value="update read me" />
@@ -230,6 +267,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+=======
+    <MESSAGE value="Kotlin - HelloWorld" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin - HelloWorld" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld/Hello.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+>>>>>>> 1db95f89eebeb6b871e8928749979665dbc9d1d5
         </state>
       </provider>
     </entry>
