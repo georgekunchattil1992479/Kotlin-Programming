@@ -17,5 +17,5 @@ fun main (args: Array<String>) : Unit {
     myString="Another String"
 
     val myAnotherStr = "My Constants String Value" //Immutable String
-    myAnotherStr = "Hello"  //value "Hello" in myAnotherStr prevents overwriting previous value. So use of val prevents the overwrite of previous variable
+    //myAnotherStr = "Hello"  //value "Hello" in myAnotherStr prevents overwriting previous value. So use of val prevents the overwrite of previous variable
 }
