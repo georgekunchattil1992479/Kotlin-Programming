@@ -10,8 +10,8 @@ After clicking the Kotlin REPL, we can see REPL Window similar to the below figu
 <br/>
 In order to perform arithmetic operation (say add), type 1 + 2. Then press Ctrl+Enter key in Windows and press Cmd+Enter in Mac. Then you can see the following result.
 <br/>      
-<p align="center"><img src="img3.png"></p>
+<p align="center"><img src="img3.PNG"></p>
 <br/>
  Similarly we can run program code and do it in REPL command line.
 <br/>
-<p align="center"><img src="img4.png"></p>
+<p align="center"><img src="img3.PNG"></p>
