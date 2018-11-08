@@ -16,15 +16,11 @@
       <p align="center"><img src="https://github.com/georgekunchattil1992479/Kotlin-Programming/blob/master/src/REPL/img4.png"></p>
       
 <br/>
-
+REPL stands for Read-Eval-Print-Loop. The main purpose of REPL is to execute program code in REPL command line window as quickly as possible. In order to use REPL command line in 'IntelliJ IDEA', Tools->Kotlin->Kotlin REPL
 <p align="center"><img src="ttps://github.com/georgekunchattil1992479/Kotlin-Programming/blob/master/src/REPL/img1.png"></p>
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+
 </p>
 
-### About Laravel
 
-Laravel is a web applicat
 
