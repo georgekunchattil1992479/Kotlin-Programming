@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66dc64f-724d-4ef9-ad20-47767d952a37" name="Default" comment="Kotlin - HelloWorld">
-      <change afterPath="$PROJECT_DIR$/src/Functions_Classes_String/Classes5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Classes_String/com/georgy/Person5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Classes_String/com/georgy/Person5Constructor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables_and_Data_Types/variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables_and_Data_Types/variables.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a66dc64f-724d-4ef9-ad20-47767d952a37" name="Default" comment="Kotlin - HelloWorld" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/Functions_Classes_String/com/georgy/Person5Constructor.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -49,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/Functions_Classes_String/Classes5.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -130,6 +124,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Functions_Classes_String" type="462c0819:PsiDirectoryNode" />
               <item name="georgy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables_and_Data_Types" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,7 +288,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -293,11 +298,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4456693" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25622255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -479,14 +484,14 @@
     <entry file="file://$PROJECT_DIR$/src/Functions_Classes_String/com/georgy/Person5Constructor.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Functions_Classes_String/Classes5.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
