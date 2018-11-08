@@ -17,7 +17,7 @@
       
 <br/>
 REPL stands for Read-Eval-Print-Loop. The main purpose of REPL is to execute program code in REPL command line window as quickly as possible. In order to use REPL command line in 'IntelliJ IDEA', Tools->Kotlin->Kotlin REPL
-<p align="center"><img src="ttps://github.com/georgekunchattil1992479/Kotlin-Programming/blob/master/src/REPL/img1.png"></p>
+<p align="center"><img src="https://github.com/georgekunchattil1992479/Kotlin-Programming/blob/master/src/REPL/img1.png"></p>
 <p align="center">
 
 </p>
