@@ -14,4 +14,4 @@ In order to perform arithmetic operation (say add), type 1 + 2. Then press Ctrl+
 
  Similarly we can run program code and do it in REPL command line.
 <br/>
-<p align="center"><img src="img3.PNG"></p>
+<p align="center"><img src="img4.PNG"></p>
