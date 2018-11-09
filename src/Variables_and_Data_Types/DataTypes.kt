@@ -25,5 +25,5 @@ fun main (args: Array<String>) : Unit {
     println(marks)
     println(perc)
     println(gender)
-    
+
 }

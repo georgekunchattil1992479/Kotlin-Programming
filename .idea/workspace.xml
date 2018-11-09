@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a66dc64f-724d-4ef9-ad20-47767d952a37" name="Default" comment="Kotlin - HelloWorld">
-      <change afterPath="$PROJECT_DIR$/src/Variables_and_Data_Types/DataTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTemplates_Interpolation/AreaRect.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTemplates_Interpolation/StringInterpolation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables_and_Data_Types/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables_and_Data_Types/DataTypes.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,22 +25,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="2" />
+          <entry key="kt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="2" />
+          <entry key="Kotlin" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="365" />
+          <entry key="kt" value="969" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="365" />
+          <entry key="Kotlin" value="969" />
         </counts>
       </usages-collector>
     </session>
@@ -72,11 +74,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Variables_and_Data_Types/DataTypes.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            <state relative-caret-position="170">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringTemplates_Interpolation/StringInterpolation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StringTemplates_Interpolation/AreaRect.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -128,14 +148,16 @@
         <option value="$PROJECT_DIR$/src/Functions_Classes_String/Classes5.kt" />
         <option value="$PROJECT_DIR$/src/Variables_and_Data_Types/variables.kt" />
         <option value="$PROJECT_DIR$/src/Variables_and_Data_Types/DataTypes.kt" />
+        <option value="$PROJECT_DIR$/src/StringTemplates_Interpolation/StringInterpolation.kt" />
+        <option value="$PROJECT_DIR$/src/StringTemplates_Interpolation/AreaRect.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="90" />
-    <option name="y" value="76" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,7 +182,7 @@
               <item name="Kotlin Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kotlin Programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Variables_and_Data_Types" type="462c0819:PsiDirectoryNode" />
+              <item name="StringTemplates_Interpolation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541742752067" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541748043933" />
     <property name="last_opened_file_path" value="D:/Installed/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -189,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Functions_Classes_String.Classes5Kt">
+  <component name="RunManager" selected="Kotlin.StringTemplates_Interpolation.AreaRectKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -198,19 +220,6 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Functions_Classes_String.Classes2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Programming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions_Classes_String.Classes2Kt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -241,27 +250,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions_Classes_String.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="StringTemplates_Interpolation.AreaRectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Programming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions_Classes_String.FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="StringTemplates_Interpolation.AreaRectKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables_and_Data_Types.VariablesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="StringTemplates_Interpolation.StringInterpolationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Programming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Variables_and_Data_Types.VariablesKt" />
+      <option name="MAIN_CLASS_NAME" value="StringTemplates_Interpolation.StringInterpolationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables_and_Data_Types.DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Programming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Variables_and_Data_Types.DataTypesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,19 +298,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.Variables_and_Data_Types.VariablesKt" />
-      <item itemvalue="Kotlin.Functions_Classes_String.FunctionsKt" />
-      <item itemvalue="Kotlin.Functions_Classes_String.Classes2Kt" />
       <item itemvalue="Kotlin.Functions_Classes_String.Classes4Kt" />
       <item itemvalue="Kotlin.Functions_Classes_String.Classes5Kt" />
+      <item itemvalue="Kotlin.Variables_and_Data_Types.DataTypesKt" />
+      <item itemvalue="Kotlin.StringTemplates_Interpolation.StringInterpolationKt" />
+      <item itemvalue="Kotlin.StringTemplates_Interpolation.AreaRectKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringTemplates_Interpolation.AreaRectKt" />
+        <item itemvalue="Kotlin.StringTemplates_Interpolation.StringInterpolationKt" />
+        <item itemvalue="Kotlin.Variables_and_Data_Types.DataTypesKt" />
         <item itemvalue="Kotlin.Functions_Classes_String.Classes5Kt" />
         <item itemvalue="Kotlin.Functions_Classes_String.Classes4Kt" />
-        <item itemvalue="Kotlin.Functions_Classes_String.Classes2Kt" />
-        <item itemvalue="Kotlin.Functions_Classes_String.FunctionsKt" />
-        <item itemvalue="Kotlin.Variables_and_Data_Types.VariablesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -313,11 +335,20 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="76" width="1346" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.56019264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6210287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,15 +357,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32755905" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.35947713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4984448" visible="true" weight="0.3291367" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4977307" weight="0.2990196" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015552" side_tool="true" visible="true" weight="0.3291367" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32913387" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.35947713" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4984448" weight="0.32733813" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -437,8 +468,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Variables_and_Data_Types/DataTypes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        <state relative-caret-position="170">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringTemplates_Interpolation/StringInterpolation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringTemplates_Interpolation/AreaRect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -506,6 +551,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
